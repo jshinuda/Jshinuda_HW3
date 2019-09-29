@@ -1,0 +1,49 @@
+header {
+    color: black;
+    background-color: #fff;
+    text-align: center; 
+    font-weight: bold;
+    font-size: 48px;
+
+}
+h1 {
+    color: black;
+    background-color: #fff;
+    text-align: center; 
+    font-weight: bold;
+    font-size: 32px;
+}
+
+h2 {
+    color: black;
+    background-color: #fff;
+    text-align: center; 
+    font-weight: bold;
+    font-size: 32px;
+
+}
+
+
+
+    .box {
+        border-color: green;
+        border-style: solid;
+        width: 30%;
+        padding: 8px;
+        margin: 0 auto;
+           
+}
+
+    ul.liststyle {
+
+        list-style-type: circle;
+        margin-top: 0;
+        margin-bottom: 0;
+    }
+
+    ul.liststyle2 {
+        list-style-type: square;
+        margin-top: 0;
+        margin-bottom: 0;
+
+    }
